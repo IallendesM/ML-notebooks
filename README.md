@@ -50,4 +50,4 @@ Predicción de precios con **shift de dominio** entre datos de origen y de desti
 ---
 
 ## Nota
-Estos notebooks fueron desarrollados como entregas del curso y están orientados a los enunciados originales de cada taller. Los dos primeros (Taller 1 y 3) fueron ejercicios guiados de aprendizaje; los Talleres 2 y 4 fueron evaluados en competencias de Kaggle entre 11 equipos del curso.
+Estos notebooks fueron desarrollados como entregas del curso y están orientados a los enunciados originales de cada taller. Los Talleres 1 y 3 fueron ejercicios guiados de aprendizaje; mientras que los Talleres 2 y 4 fueron evaluados en competencias de Kaggle entre 11 equipos del curso.
